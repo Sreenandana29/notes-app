@@ -108,3 +108,13 @@ GitHub: [Sreenandana29](https://github.com/Sreenandana29)
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository!
+## 📸 Application Screenshots
+
+### Dashboard
+![Notes App Dashboard](screenshots/dashboard.png)
+
+### Category Filtering
+![Category Filtering](screenshots/categories.png)
+
+### Search Functionality
+![Search Notes](screenshots/search.png)
